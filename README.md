@@ -1,9 +1,19 @@
-# stats220
-**About Me**
+# Stats220
+## About Me
 
-Hello, this is my repo for Statistics220. 
- - This is my Linkedln Account
- - 
+Hello, this is my repo for *Statistics220.* 
+
+My name is **Anushka Rastogi**.
+
+1. I am a student at **University of Auckland**.
+2. I am doing a conjoint degree for Bachelor of Commerce and Science.
+3. My majors are:
+   - Finance
+   - Business Analytics
+   - Statisitics
+
+This is my [Linkedln Account](www.linkedin.com/in/anushka-rastogi-60228b22b)
+
 
 ### Part B: Meme Creation
 
@@ -18,3 +28,6 @@ use of two different types of bullet points (ordered or unordered)
 use of bold and italics
 use of links to other websites
 Record the link to your GitHub repo. It should look something like this: https://github.com/annafergusson/stats220_demo
+
+
+
